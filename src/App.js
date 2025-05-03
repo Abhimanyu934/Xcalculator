@@ -4,7 +4,6 @@ import Calculator from "./Components/Calculator";
  
  function App() {
  
-   return <>hey</>;
    return (
      <>
        <Calculator />
